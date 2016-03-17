@@ -1,8 +1,10 @@
 # Site wide configuration
 
 title:            Epameinondas Antonakos
+description:      Welcome to my site.
 locale:           en_US
 url:              http://nontas.github.io/
+disqus-shortname: nontas
 
 
 # Jekyll configuration
@@ -44,33 +46,20 @@ owner:
   name: Epameinondas Antonakos
   avatar: bio-photo.jpg
   bio: "PhD Candidate at Imperial College London."
-  email: 
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  email: antonakosn@gmail.com
+  google_scholar: ViIpE70AAAAJ
+  twitter: antonakosn
+  facebook: antonakosn
   google:
-    plus: #antonakosn
+    plus: NontasAntonakos
     analytics:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
-  github: #nontas
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #antonakosn
-  xing: #username
-  instagram: #antonakosn
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #antonakosn
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  github: nontas
+  linkedin: epameinondas-antonakos-32b62454
+  instagram: antonakosn
+  youtube: UCTVZcVewdJp9EGocDDmxHxg
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

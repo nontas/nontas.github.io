@@ -1,8 +1,21 @@
 # Site wide configuration
 
 title:            Epameinondas Antonakos
+description:      Welcome to my site.
 locale:           en_US
 url:              http://nontas.github.io/
+disqus-shortname: nontas
+
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: CV
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
 
 
 # Jekyll configuration
@@ -45,7 +58,6 @@ owner:
   avatar: bio-photo.jpg
   bio: "PhD Candidate at Imperial College London."
   email: antonakosn@gmail.com
-  disqus-shortname: nontas
   google_scholar: ViIpE70AAAAJ
   twitter: antonakosn
   facebook: antonakosn
