@@ -7,6 +7,17 @@ url:              http://nontas.github.io/
 disqus-shortname: nontas
 
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: CV
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
+
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
