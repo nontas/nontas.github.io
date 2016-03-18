@@ -17,24 +17,24 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   <div id="bib_sagonas2016faces" class="bibtex noshow">
   <pre>
   @article{sagonas2016faces,
-  author = {Christos Sagonas and Epameinondas Antonakos and Georgios Tzimiropoulos and Stefanos Zafeiriou},
+  author = {Sagonas, Christos and Antonakos, Epameinondas and Tzimiropoulos, Georgios and Zafeiriou, Stefanos},
   title = {300 Faces In-The-Wild Challenge: Database and Results},
   journal = {Image and Vision Computing, Special Issue on Facial Landmark Localisation "In-The-Wild"},
   year = {2016},
   publisher = {Elsevier}
   }
   </pre>
-  </div><br/>
+  </div>
 
 * _E. Antonakos_, J. Alabort-i-Medina, G. Tzimiropoulos, and S. Zafeiriou<br/>
   **Feature-Based Lucas-Kanade and Active Appearance Models**<br/>
-  *IEEE Transactions on Image Processing*, 24(9): pp. 2617-2632, September 2015.<br/>
+  *IEEE Transactions on Image Processing (T-IP)*, 24(9): pp. 2617-2632, September 2015.<br/>
   [<a href="../publications/files/antonakos2015feature.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2015feature')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2015feature" class="bibtex noshow">
   <pre>
   @article{antonakos2015feature,
-  author = {Epameinondas Antonakos and Joan {Alabort-i-Medina} and Georgios Tzimiropoulos and Stefanos Zafeiriou},
+  author = {Antonakos, Epameinondas and {Alabort-i-Medina}, Joan and Tzimiropoulos, Georgios and Zafeiriou, Stefanos},
   title = {Feature-Based Lucas-Kanade and Active Appearance Models},
   journal = {IEEE Transactions on Image Processing},
   volume = {24},
@@ -45,7 +45,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   publisher = {IEEE}
   }
   </pre>
-  </div><br/>
+  </div>
 
 * *E. Antonakos*, V. Pitsikalis, and P. Maragos.<br/>
   **Classification of Extreme Facial Events in Sign Language Videos**<br/>
@@ -55,19 +55,197 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   <div id="bib_antonakos2014classification" class="bibtex noshow">
   <pre>
   @article{antonakos2014classification,
-  title={Classification of extreme facial events in sign language videos},
-  author={Antonakos, Epameinondas and Pitsikalis, Vassilis and Maragos, Petros},
-  journal={EURASIP Journal on Image and Video Processing},
-  volume={2014},
-  number={14},
-  pages={1--19},
-  year={2014},
-  publisher={Springer},
+  title = {Classification of extreme facial events in sign language videos},
+  author = {Antonakos, Epameinondas and Pitsikalis, Vassilis and Maragos, Petros},
+  journal = {EURASIP Journal on Image and Video Processing},
+  volume = {2014},
+  number = {14},
+  pages = {1--19},
+  year = {2014},
+  publisher = {Springer},
   url = {http://jivp.eurasipjournals.com/content/2014/1/14}
   }
   </pre>
   </div><br/>
 
-### Top-Tier Conference Articles
 
-### Other Conference Articles
+### Top-Tier Conference Presentations
+* *E. Antonakos*, J. Alabort-i-Medina, and S. Zafeiriou.<br/>
+  **Active Pictorial Structures**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'15)*, Boston, MA, USA, pp. 5435-5444, June 2015.<br/>
+  [<a href="../publications/files/antonakos2015active.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2015active_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="../publications/files/antonakos2015active_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="../publications/files/antonakos2015active_extendedabstract.pdf"><font color="1A75FF">extended abstract</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2015active')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2015active" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2015active,
+  author = {Antonakos, Epameinondas and {Alabort-i-Medina}, Joan and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  pages = {5435--5444},
+  address = {Boston, MA, USA},
+  month = {June},
+  title = {Active Pictorial Structures},
+  year = {2015},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+  
+* J. Alabort-i-Medina, *E. Antonakos*, J. Booth, P. Snape, and S. Zafeiriou.<br/>
+  **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**<br/>
+  *Proceedings of the ACM International Conference on Multimedia (MM'14)*, Orlando, Florida, USA, pp. 679-682, November 2014.<br/>
+  [<a href="../publications/files/alabort2014menpo.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="javascript:toggleBibtex('alabort2014menpo')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_alabort2014menpo" class="bibtex noshow">
+  <pre>
+  @inproceedings{alabort2014menpo,
+  author = { {Alabort-i-Medina}, Joan and Antonakos, Epameinondas and Booth, James and Snape, Patrick and Zafeiriou, Stefanos},
+  title = {Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models},
+  booktitle = {Proceedings of the ACM International Conference on Multimedia},
+  series = {MM '14},
+  year = {2014},
+  isbn = {978-1-4503-3063-3},
+  location = {Orlando, Florida, USA},
+  pages = {679--682},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/2647868.2654890},
+  doi = {10.1145/2647868.2654890},
+  acmid = {2654890},
+  publisher = {ACM},
+  address = {New York, NY, USA}
+  }
+  </pre>
+  </div>
+  
+* L. Zafeiriou, *E. Antonakos*, S. Zafeiriou, and M. Pantic.<br/>
+  **Joint Unsupervised Face Alignment and Behaviour Analysis**<br/>
+  *Proceedings of the 13th European Conference on Computer Vision (ECCV'14)*, Zurich, Switzerland, pp. 167-183, September 2014.<br/>
+  [<a href="../publications/files/zafeiriou2014joint.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/zafeiriou2014joint_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="../publications/files/zafeiriou2014joint_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="javascript:toggleBibtex('zafeiriou2014joint')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_zafeiriou2014joint" class="bibtex noshow">
+  <pre>
+  @incollection{zafeiriou2014joint,
+  title = {Joint Unsupervised Face Alignment and Behaviour Analysis},
+  author = {Zafeiriou, Lazaros and Antonakos, Epameinondas and Zafeiriou, Stefanos and Pantic, Maja},
+  booktitle = {Computer Vision--ECCV 2014},
+  pages = {167--183},
+  year = {2014},
+  publisher = {Springer}
+  }
+  </pre>
+  </div>
+  
+* *E. Antonakos*, and S. Zafeiriou.<br/>
+  **Automatic Construction of Deformable Models In-The-Wild**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'14)*, Columbus, OH, USA, pp. 1813-1820, June 2014.<br/>
+  [<a href="../publications/files/antonakos2014automatic.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2014automatic_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="../publications/files/antonakos2014automatic_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2014automatic')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2014automatic" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2014automatic,
+  author = {Antonakos, Epameinondas and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  pages = {1813--1820},
+  address = {Columbus, OH, USA},
+  month = {June},
+  title = {Automatic Construction of Deformable Models In-The-Wild},
+  year = {2014},
+  organization = {IEEE}
+  }
+  </pre>
+  </div><br/>
+  
+
+### Ordinary Conference Presentations
+* G. Chrysos, *E. Antonakos*, S. Zafeiriou, and P. Snape.<br/>
+  **Offline Deformable Face Tracking in Arbitrary Videos**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision Workshops (ICCVW'15), 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop*, Santiago, Chile, December 2015.<br/>
+  [<a href="../publications/files/chrysos2015offline.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="javascript:toggleBibtex('chrysos2015offline')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_chrysos2015offline" class="bibtex noshow">
+  <pre>
+  @inproceedings{chrysos2015offline,
+  author = {Chrysos, Grigorios and Antonakos, Epameinondas and Zafeiriou, Stefanos and Snape, Patrick},
+  address = {Santiago, Chile},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision Workshops, 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop},
+  month = {December},
+  title = {Offline Deformable Face Tracking in Arbitrary Videos},
+  year = {2015},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+  
+* *E. Antonakos*, A. Roussos, and S. Zafeiriou.<br/>
+  **A Survey on Mouth Modeling and Analysis for Sign Language Recognition**<br/>
+  *Proceedings of IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG'15)*, Ljubljana, Slovenia, pp. 1-7, ***Oral***, May 2015.<br/>
+  [<a href="../publications/files/antonakos2015survey.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2015survey_slides.pdf"><font color="1A75FF">slides</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2015survey')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2015survey" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2015survey,
+  title = {A survey on mouth modeling and analysis for Sign Language recognition},
+  author = {Antonakos, Epameinondas and Roussos, Anastasios and Zafeiriou, Stefanos},
+  booktitle = {Automatic Face and Gesture Recognition (FG), 2015 11th IEEE International Conference and Workshops on},
+  volume = {1},
+  pages = {1--7},
+  year = {2015},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+  
+* *E. Antonakos*, J. Alabort-i-Medina, G. Tzimiropoulos, and S. Zafeiriou.<br/>
+  **HOG Active Appearance Models**<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'14)*, Paris, France, pp. 224-228, October 2014. ***Received the top 10% papers award.***<br/>
+  [<a href="../publications/files/antonakos2014hog.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2014hog_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2014hog')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2014hog" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2014hog,
+  title = {HOG Active Appearance Models},
+  author = {Antonakos, Epameinondas and {Alabort-i-Medina}, Joan and Tzimiropoulos, Georgios and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Image Processing},
+  pages = {224--228},
+  year = {2014},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
+* *E. Antonakos*, V. Pitsikalis, I. Rodomagoulakis, and P. Maragos.<br/>
+  **Unsupervised Classification of Extreme Facial Events using Active Appearance Models Tracking for Sign Language Videos**<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'12)*, Orlando, FL, USA, pp. 1409-1412, October 2012.<br/>
+  [<a href="../publications/files/antonakos2012unsupervised.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2012unsupervised_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2012unsupervised')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2012unsupervised" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2012unsupervised,
+  title = {Unsupervised classification of extreme facial events using active appearance models tracking for sign language videos},
+  author = {Antonakos, Epameinondas and Pitsikalis, Vassilis and Rodomagoulakis, Isidoros and Maragos, Petros},
+  booktitle = {Proceedings of IEEE International Conference on Image Processing},
+  pages = {1409--1412},
+  year = {2012},
+  organization = {IEEE}
+  }
+  </pre>
+  </div><br/>
+
+
+### Thesis
+* *E. Antonakos*.<br/>
+  **Visual Modeling of Human Face in Real-Time with Applications in Recognition** (in greek)<br/>
+  *Diploma Thesis*, July 2011.<br/>
+  School of Electrical and Computer Engineering, National Technical University of Athens (NTUA).<br/>
+  Thesis supervisor: P. Maragos.<br/>
+  [<a href="../publications/files/antonakos_DiplomaThesis.pdf"><font color="1A75FF">pdf (in greek)</font></a>]
+  [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">slides (in greek)</font></a>]
