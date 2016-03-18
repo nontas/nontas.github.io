@@ -1,9 +1,10 @@
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: CV
-    url: /cv/
-  - title: Publications
-    url: /publications/
-  - title: Code
-    url: /code/
+# Site navigation links
+
+- title: Curriculum
+  url: /curriculum/
+
+- title: Publications
+  url: /publications/
+
+- title: Software
+  url: /software/
