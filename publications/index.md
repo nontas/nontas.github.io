@@ -50,7 +50,8 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 * *E. Antonakos*, V. Pitsikalis, and P. Maragos.<br/>
   **Classification of Extreme Facial Events in Sign Language Videos**<br/>
   *EURASIP Journal on Image and Video Processing*, 2014(14): 2014.<br/>
-  [<a href="../publications/files/antonakos2015feature.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/antonakos2014classification.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="http://jivp.eurasipjournals.springeropen.com/articles/10.1186/1687-5281-2014-14"><font color="1A75FF">web</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2014classification')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2014classification" class="bibtex noshow">
   <pre>
@@ -93,9 +94,9 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   </pre>
   </div>
   
-* J. Alabort-i-Medina, *E. Antonakos*, J. Booth, P. Snape, and S. Zafeiriou.<br/>
+* J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**<br/>
-  *Proceedings of the ACM International Conference on Multimedia (MM'14)*, Orlando, Florida, USA, pp. 679-682, November 2014.<br/>
+  *Proceedings of the ACM International Conference on Multimedia (MM'14)*, Orlando, FL, USA, pp. 679-682, November 2014.<br/>
   [<a href="../publications/files/alabort2014menpo.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('alabort2014menpo')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_alabort2014menpo" class="bibtex noshow">
@@ -107,7 +108,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   series = {MM '14},
   year = {2014},
   isbn = {978-1-4503-3063-3},
-  location = {Orlando, Florida, USA},
+  location = {Orlando, FL, USA},
   pages = {679--682},
   numpages = {4},
   url = {http://doi.acm.org/10.1145/2647868.2654890},
@@ -182,7 +183,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   </pre>
   </div>
   
-* *E. Antonakos*, A. Roussos, and S. Zafeiriou.<br/>
+* *E. Antonakos*<sup>\*</sup>, A. Roussos<sup>\*</sup>, and S. Zafeiriou<sup>\*</sup>. *(\* Joint first authorship)*<br/>
   **A Survey on Mouth Modeling and Analysis for Sign Language Recognition**<br/>
   *Proceedings of IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG'15)*, Ljubljana, Slovenia, pp. 1-7, ***Oral***, May 2015.<br/>
   [<a href="../publications/files/antonakos2015survey.pdf"><font color="1A75FF">pdf</font></a>]
@@ -248,4 +249,4 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   School of Electrical and Computer Engineering, National Technical University of Athens (NTUA).<br/>
   Thesis supervisor: P. Maragos.<br/>
   [<a href="../publications/files/antonakos_DiplomaThesis.pdf"><font color="1A75FF">pdf (in greek)</font></a>]
-  [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">slides (in greek)</font></a>]
+  [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">pdf slides (in greek)</font></a>]
