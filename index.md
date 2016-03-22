@@ -10,9 +10,9 @@ image:
 
 ---
 
-<p align="justify">I am a Research Assistant/PhD student at [**Imperial College London**](http://www.imperial.ac.uk/computing). I am a member of the [**Intelligent Behaviour Understanding Group (iBUG)**](http://ibug.doc.ic.ac.uk/) working under the supervision of [*Dr. Stefanos Zafeiriou*](https://wp.doc.ic.ac.uk/szafeiri/).<br/><br/>
-My research interests lie in the fields of Computer Vision, Pattern Recognition, Statistical Machine Learning and Human-Computer Interaction with particular focus on **2D Deformable Models**.<br/><br/>
-I co-founded the **[Menpo Project](http://www.menpo.org/)** with my friends [*Joan Alabort-i-Medina*](https://github.com/jalabort), [*James Booth*](http://www.jamesabooth.com/) and [*Patrick Snape*](http://patricksnape.github.io/). Menpo is an open source, cross-platform library for training and fitting deformable models.</p>
+<p align="justify">I am a Research Assistant/PhD student at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a>. I am a member of the <a href="http://ibug.doc.ic.ac.uk/"><b>Intelligent Behaviour Understanding Group (iBUG)</b></a> working under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/"><i>Dr. Stefanos Zafeiriou</i></a>.<br/><br/>
+My research interests lie in the fields of Computer Vision, Pattern Recognition, Statistical Machine Learning and Human-Computer Interaction with particular focus on <b>2D Deformable Models</b>.<br/><br/>
+I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with my friends <a href="https://github.com/jalabort"><i>Joan Alabort-i-Medina</i></a>, <a href="http://www.jamesabooth.com/"><i>James Booth</i></a> and <a href="http://patricksnape.github.io/"><i>Patrick Snape</i></a>. Menpo is an open source, cross-platform library for training and fitting deformable models.</p>
 
 ---
 
