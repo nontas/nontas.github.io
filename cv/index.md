@@ -1,10 +1,16 @@
 ---
 layout: page
 title: CV
-tags: [about, Jekyll, theme, responsive]
+tags: [Epameinondas Antonakos, Nontas Antonakos, Imperial College London, Computer Vision, Deformable Models, Menpo]
 modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
+
+You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> *[Last updated: 22/03/2016]*.<br/><br/>
+<!--<ul style="list-style-type:square">-->
+  <!--<li><b>Apr 2013</b><span style="display:inline-block; width: 1cm;"></span>Ph.D. Candidate at Imperial College Londonas;lddddlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll</li>-->
+  <!--<li><b>2004-2011</b> blah blah</li>-->
+<!--</ul>  -->
 
 I am a Research Assistant/PhD student in the [Department of Computing, Imperial College London](http://www.imperial.ac.uk/computing) working at the [Intelligent Behaviour Understanding Group (iBUG)](http://ibug.doc.ic.ac.uk/) under the supervision of [Dr. Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/). I received my Diploma degree in Electrical and Computer Engineering from the [National Technical University of Athens](http://www.ntua.gr/) in 2011. During 2011-2012, I was a Research Assistant in the [Computer Vision, Speech Communication & Signal Processing (CVSP) Group](http://cvsp.cs.ntua.gr/) under the supervision of [Prof. Petros Maragos](http://cvsp.cs.ntua.gr/maragos/index.shtm).
 

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Publications
-tags: [about, Jekyll, theme, responsive]
+tags: [Epameinondas Antonakos, Nontas Antonakos, Imperial College London, Computer Vision, Deformable Models, Menpo]
 modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
 You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ), [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) or [iBUG](http://ibug.doc.ic.ac.uk/people/eantonakos) profile.
 
-### Journal Articles
+### Refereed Journal Articles
 * C. Sagonas, _E. Antonakos_, G. Tzimiropoulos, S. Zafeiriou, and M. Pantic<br/>
   **300 Faces In-The-Wild Challenge: Database and Results**<br/>
   *Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisation "In-The-Wild"*, 2016<br/>
