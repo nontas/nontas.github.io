@@ -17,7 +17,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   <div id="bib_sagonas2016faces" class="bibtex noshow">
   <pre>
   @article{sagonas2016faces,
-  author = {Sagonas, Christos and Antonakos, Epameinondas and Tzimiropoulos, Georgios and Zafeiriou, Stefanos},
+  author = {Sagonas, Christos and Antonakos, Epameinondas and Tzimiropoulos, Georgios and Zafeiriou, Stefanos and Pantic, Maja},
   title = {300 Faces In-The-Wild Challenge: Database and Results},
   journal = {Image and Vision Computing, Special Issue on Facial Landmark Localisation "In-The-Wild"},
   year = {2016},
