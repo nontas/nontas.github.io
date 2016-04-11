@@ -6,7 +6,7 @@ modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
-You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> *[Last updated: 22/03/2016]*.<br/><br/>
+You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> *[Last updated: 11/04/2016]*.<br/><br/>
 <!--<ul style="list-style-type:square">-->
   <!--<li><b>Apr 2013</b><span style="display:inline-block; width: 1cm;"></span>Ph.D. Candidate at Imperial College Londonas;lddddlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll</li>-->
   <!--<li><b>2004-2011</b> blah blah</li>-->
