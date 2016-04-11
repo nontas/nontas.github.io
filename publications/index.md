@@ -71,6 +71,66 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Top-Tier Conference Presentations
+* G. Trigeorgis, P. Snape, M. Nicolaou, *E. Antonakos*, and S. Zafeiriou.<br/>
+  **Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  [<a href="../publications/files/trigeorgis2016mnemonic.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/trigeorgis2016mnemonic_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="javascript:toggleBibtex('trigeorgis2016mnemonic')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_trigeorgis2016mnemonic" class="bibtex noshow">
+  <pre>
+  @inproceedings{trigeorgis2016mnemonic,
+  author = {Trigeorgis, George and Snape, Patrick and Nicolaou, Mihalis and Antonakos, Epameinondas and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  address = {Las Vegas, NV, USA},
+  month = {June},
+  title = {Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment},
+  year = {2016},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
+* Y. Zhou, *E. Antonakos*, J. Alabort-i-Medina, A. Roussos, and S. Zafeiriou.<br/>
+  **Estimating Correspondences of Deformable Objects "In-the-wild"**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  [<a href="../publications/files/zhou2016estimating.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/zhou2016estimating_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="javascript:toggleBibtex('zhou2016estimating')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_zhou2016estimating" class="bibtex noshow">
+  <pre>
+  @inproceedings{zhou2016estimating,
+  author = {Zhou, Yuxiang and Antonakos, Epameinondas and {Alabort-i-Medina}, Joan and Roussos, Anastasios and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  address = {Las Vegas, NV, USA},
+  month = {June},
+  title = {Estimating Correspondences of Deformable Objects "In-the-wild"},
+  year = {2016},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
+* L. Zafeiriou, *E. Antonakos*, and S. Zafeiriou.<br/>
+  **Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  [<a href="../publications/files/zafeiriou2016joint.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/zafeiriou2016joint_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="javascript:toggleBibtex('zafeiriou2016joint')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_zafeiriou2016joint" class="bibtex noshow">
+  <pre>
+  @inproceedings{zafeiriou2016joint,
+  author = {Zafeiriou, Lazaros and Antonakos, Epameinondas and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  address = {Las Vegas, NV, USA},
+  month = {June},
+  title = {Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences},
+  year = {2016},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
 * *E. Antonakos*, J. Alabort-i-Medina, and S. Zafeiriou.<br/>
   **Active Pictorial Structures**<br/>
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'15)*, Boston, MA, USA, pp. 5435-5444, June 2015.<br/>
@@ -93,7 +153,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**<br/>
   *Proceedings of the ACM International Conference on Multimedia (MM'14)*, Orlando, FL, USA, pp. 679-682, November 2014.<br/>
@@ -119,7 +179,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * L. Zafeiriou, *E. Antonakos*, S. Zafeiriou, and M. Pantic.<br/>
   **Joint Unsupervised Face Alignment and Behaviour Analysis**<br/>
   *Proceedings of the 13th European Conference on Computer Vision (ECCV'14)*, Zurich, Switzerland, pp. 167-183, September 2014.<br/>
@@ -139,7 +199,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * *E. Antonakos*, and S. Zafeiriou.<br/>
   **Automatic Construction of Deformable Models In-The-Wild**<br/>
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'14)*, Columbus, OH, USA, pp. 1813-1820, June 2014.<br/>
@@ -161,7 +221,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div><br/>
-  
+
 
 ### Ordinary Conference Presentations
 * G. Chrysos, *E. Antonakos*, S. Zafeiriou, and P. Snape.<br/>
@@ -182,7 +242,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * *E. Antonakos*<sup>\*</sup>, A. Roussos<sup>\*</sup>, and S. Zafeiriou<sup>\*</sup>. *(\* Joint first authorship)*<br/>
   **A Survey on Mouth Modeling and Analysis for Sign Language Recognition**<br/>
   *Proceedings of IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG'15)*, Ljubljana, Slovenia, pp. 1-7, ***Oral***, May 2015.<br/>
@@ -202,7 +262,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * *E. Antonakos*, J. Alabort-i-Medina, G. Tzimiropoulos, and S. Zafeiriou.<br/>
   **HOG Active Appearance Models**<br/>
   *Proceedings of IEEE International Conference on Image Processing (ICIP'14)*, Paris, France, pp. 224-228, October 2014. ***Received the top 10% papers award.***<br/>
