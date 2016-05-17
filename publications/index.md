@@ -226,7 +226,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Ordinary Conference Presentations
 * *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Adaptive Cascaded Regression**<br/>
-  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, September 2016.*<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2016adaptive')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2016adaptive" class="bibtex noshow">
