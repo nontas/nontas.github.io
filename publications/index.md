@@ -224,6 +224,23 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Ordinary Conference Presentations
+* *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
+  **Adaptive Cascaded Regression**<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, September 2016.*<br/>
+  [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="javascript:toggleBibtex('antonakos2016adaptive')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_antonakos2016adaptive" class="bibtex noshow">
+  <pre>
+  @inproceedings{antonakos2016adaptive,
+  title = {HOG Active Appearance Models},
+  author = {Antonakos, Epameinondas and Snape, Patrick and Trigeorgis, George and Zafeiriou, Stefanos},
+  booktitle = {Proceedings of IEEE International Conference on Image Processing},
+  year = {2016},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
 * G. Chrysos, *E. Antonakos*, S. Zafeiriou, and P. Snape.<br/>
   **Offline Deformable Face Tracking in Arbitrary Videos**<br/>
   *Proceedings of IEEE International Conference on Computer Vision Workshops (ICCVW'15), 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop*, Santiago, Chile, December 2015.<br/>
