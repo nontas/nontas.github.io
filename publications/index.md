@@ -319,6 +319,28 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   </div><br/>
 
 
+### Other Publications
+* J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
+  **The Menpo Project**<br/>
+  *ACM Special Interest Group on Multimedia (SIGMM) Records*, 8(2), June 2016.<br/>
+  [<a href="http://records.mlab.no/2016/04/28/the-menpo-project/"><font color="1A75FF">url</font></a>]
+  [<a href="javascript:toggleBibtex('alabort2016menpo')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_alabort2016menpo" class="bibtex noshow">
+  <pre>
+  @incollection{alabort2016menpo,
+  author = {J. Alabort-i-medina and E. Antonakos and J. Booth and P. Snape and S. Zafeiriou},
+  booktitle = {ACM SIGMM Records},
+  number = {2},
+  organization = {ACM},
+  title = {The Menpo Project},
+  url = {http://records.mlab.no/2016/04/28/the-menpo-project/},
+  volume = {8},
+  year = {2016}
+  }
+  </pre>
+  </div>
+
+
 ### Thesis
 * *E. Antonakos*.<br/>
   **Visual Modeling of Human Face in Real-Time with Applications in Recognition** (in greek)<br/>
