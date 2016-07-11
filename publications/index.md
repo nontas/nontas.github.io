@@ -11,7 +11,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Refereed Journal Articles
 * C. Sagonas, _E. Antonakos_, G. Tzimiropoulos, S. Zafeiriou, and M. Pantic<br/>
   **300 Faces In-The-Wild Challenge: Database and Results**<br/>
-  *Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisation "In-The-Wild"*, 2016<br/>
+  *Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisation "In-The-Wild"*, 47: pp. 3-18, 2016.<br/>
   [<a href="../publications/files/sagonas2016faces.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('sagonas2016faces')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_sagonas2016faces" class="bibtex noshow">
@@ -20,6 +20,8 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   author = {Sagonas, Christos and Antonakos, Epameinondas and Tzimiropoulos, Georgios and Zafeiriou, Stefanos and Pantic, Maja},
   title = {300 Faces In-The-Wild Challenge: Database and Results},
   journal = {Image and Vision Computing, Special Issue on Facial Landmark Localisation "In-The-Wild"},
+  pages = {3--18},
+  volume = {47},
   year = {2016},
   publisher = {Elsevier}
   }
@@ -226,7 +228,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Ordinary Conference Presentations
 * *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Adaptive Cascaded Regression**<br/>
-  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, September 2016.<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, ***Oral***, September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2016adaptive')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2016adaptive" class="bibtex noshow">
