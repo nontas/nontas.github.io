@@ -78,7 +78,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
   [<a href="../publications/files/trigeorgis2016mnemonic.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_supp.pdf"><font color="1A75FF">supp</font></a>]
-   [<a href="../publications/files/trigeorgis2016mnemonic_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="../publications/files/trigeorgis2016mnemonic_poster.pdf"><font color="1A75FF">poster</font></a>]
   [<a href="javascript:toggleBibtex('trigeorgis2016mnemonic')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_trigeorgis2016mnemonic" class="bibtex noshow">
   <pre>
@@ -99,6 +99,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
   [<a href="../publications/files/zhou2016estimating.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/zhou2016estimating_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="../publications/files/zhou2016estimating_poster.pdf"><font color="1A75FF">poster</font></a>]
   [<a href="javascript:toggleBibtex('zhou2016estimating')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_zhou2016estimating" class="bibtex noshow">
   <pre>
@@ -323,7 +324,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Other Publications
-* G. Chrysos, _E. Antonakos_, P. Snape, A. Asthana, and S. Zafeiriou<br/>
+* G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
   *arXiv preprint arXiv:1603.06015*, 2016.<br/>
   [<a href="../publications/files/chrysos2016comprehensive.pdf"><font color="1A75FF">pdf</font></a>]
