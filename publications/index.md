@@ -78,6 +78,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
   [<a href="../publications/files/trigeorgis2016mnemonic.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_supp.pdf"><font color="1A75FF">supp</font></a>]
+   [<a href="../publications/files/trigeorgis2016mnemonic_poster.pdf"><font color="1A75FF">poster</font></a>]
   [<a href="javascript:toggleBibtex('trigeorgis2016mnemonic')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_trigeorgis2016mnemonic" class="bibtex noshow">
   <pre>
@@ -322,6 +323,25 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Other Publications
+* G. Chrysos, _E. Antonakos_, P. Snape, A. Asthana, and S. Zafeiriou<br/>
+  **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
+  *arXiv preprint arXiv:1603.06015*, 2016.<br/>
+  [<a href="../publications/files/chrysos2016comprehensive.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/chrysos2016comprehensive_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="http://arxiv.org/pdf/1603.06015v1.pdf"><font color="1A75FF">url</font></a>]
+  [<a href="javascript:toggleBibtex('chrysos2016comprehensive')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_chrysos2016comprehensive" class="bibtex noshow">
+  <pre>
+  @article{chrysos2016comprehensive,
+  author = {Chrysos, Grigorios and Antonakos, Epameinondas and Snape, Patrick and Asthana, Akshay and Zafeiriou, Stefanos},
+  title = {A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"},
+  journal = {arXiv preprint arXiv:1603.06015},
+  url={http://arxiv.org/pdf/1603.06015v1.pdf},
+  year = {2016}
+  }
+  </pre>
+  </div>
+  
 * J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **The Menpo Project**<br/>
   *ACM Special Interest Group on Multimedia (SIGMM) Records*, 8(2), June 2016.<br/>
@@ -350,4 +370,4 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   School of Electrical and Computer Engineering, National Technical University of Athens (NTUA).<br/>
   Thesis supervisor: P. Maragos.<br/>
   [<a href="../publications/files/antonakos_DiplomaThesis.pdf"><font color="1A75FF">pdf (in greek)</font></a>]
-  [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">pdf slides (in greek)</font></a>]
+  [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">slides (in greek)</font></a>]
