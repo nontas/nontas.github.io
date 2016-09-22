@@ -146,7 +146,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   [<a href="../publications/files/antonakos2015active_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/antonakos2015active_poster.pdf"><font color="1A75FF">poster</font></a>]
   [<a href="../publications/files/antonakos2015active_extendedabstract.pdf"><font color="1A75FF">extended abstract</font></a>]
-  [<a href="http://www.menpo.org/menpofit/atm.html"><font color="1A75FF">code</font></a>]
+  [<a href="http://www.menpo.org/menpofit/aps.html"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2015active')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2015active" class="bibtex noshow">
   <pre>
