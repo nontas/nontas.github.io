@@ -13,6 +13,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   **300 Faces In-The-Wild Challenge: Database and Results**<br/>
   *Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisation "In-The-Wild"*, 47: pp. 3-18, 2016.<br/>
   [<a href="../publications/files/sagonas2016faces.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="http://ibug.doc.ic.ac.uk/resources/300-W_IMAVIS/"><font color="1A75FF">web</font></a>]
   [<a href="javascript:toggleBibtex('sagonas2016faces')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_sagonas2016faces" class="bibtex noshow">
   <pre>
@@ -32,6 +33,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   **Feature-Based Lucas-Kanade and Active Appearance Models**<br/>
   *IEEE Transactions on Image Processing (T-IP)*, 24(9): pp. 2617-2632, September 2015.<br/>
   [<a href="../publications/files/antonakos2015feature.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="http://www.menpo.org/menpofit/aam.html"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2015feature')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2015feature" class="bibtex noshow">
   <pre>
@@ -79,6 +81,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   [<a href="../publications/files/trigeorgis2016mnemonic.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="https://github.com/trigeorgis/mdm"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('trigeorgis2016mnemonic')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_trigeorgis2016mnemonic" class="bibtex noshow">
   <pre>
@@ -100,6 +103,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   [<a href="../publications/files/zhou2016estimating.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/zhou2016estimating_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/zhou2016estimating_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="http://ibug.doc.ic.ac.uk/resources/bodypose-anno-correction/"><font color="1A75FF">web</font></a>]
   [<a href="javascript:toggleBibtex('zhou2016estimating')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_zhou2016estimating" class="bibtex noshow">
   <pre>
@@ -142,6 +146,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   [<a href="../publications/files/antonakos2015active_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/antonakos2015active_poster.pdf"><font color="1A75FF">poster</font></a>]
   [<a href="../publications/files/antonakos2015active_extendedabstract.pdf"><font color="1A75FF">extended abstract</font></a>]
+  [<a href="http://www.menpo.org/menpofit/atm.html"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2015active')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2015active" class="bibtex noshow">
   <pre>
@@ -162,6 +167,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   **Menpo: A Comprehensive Platform for Parametric Image Alignment and Visual Deformable Models**<br/>
   *Proceedings of the ACM International Conference on Multimedia (MM'14)*, Orlando, FL, USA, pp. 679-682, November 2014.<br/>
   [<a href="../publications/files/alabort2014menpo.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="http://www.menpo.org/"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('alabort2014menpo')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_alabort2014menpo" class="bibtex noshow">
   <pre>
@@ -232,6 +238,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   **Adaptive Cascaded Regression**<br/>
   *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, ***Oral***, September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="http://www.menpo.org/menpofit/"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2016adaptive')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2016adaptive" class="bibtex noshow">
   <pre>
@@ -289,6 +296,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Image Processing (ICIP'14)*, Paris, France, pp. 224-228, October 2014. ***Received the top 10% papers award.***<br/>
   [<a href="../publications/files/antonakos2014hog.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/antonakos2014hog_poster.pdf"><font color="1A75FF">poster</font></a>]
+  [<a href="http://www.menpo.org/menpofit/aam.html"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('antonakos2014hog')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_antonakos2014hog" class="bibtex noshow">
   <pre>
@@ -342,11 +350,12 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-  
+
 * J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **The Menpo Project**<br/>
   *ACM Special Interest Group on Multimedia (SIGMM) Records*, 8(2), June 2016.<br/>
   [<a href="http://records.mlab.no/2016/04/28/the-menpo-project/"><font color="1A75FF">url</font></a>]
+  [<a href="http://www.menpo.org/"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('alabort2016menpo')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_alabort2016menpo" class="bibtex noshow">
   <pre>
