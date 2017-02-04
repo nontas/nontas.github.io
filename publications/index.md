@@ -338,6 +338,46 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Other Publications
+* J. Booth, _E. Antonakos_, S. Ploumpis, G. Trigeorgis, Y. Panagakis, and S. Zafeiriou.<br/>
+  **3D Face Morphable Models "In-the-Wild"**<br/>
+  *arXiv preprint arXiv:1701.05360*, 2017.<br/>
+  [<a href="../publications/files/booth20173d.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/booth20173d_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="http://arxiv.org/pdf/1701.05360v1.pdf"><font color="1A75FF">url</font></a>]
+  [<a href="http://www.menpo.org/menpo3d/"><font color="1A75FF">code</font></a>]
+  [<a href="javascript:toggleBibtex('booth20173d')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_booth20173d" class="bibtex noshow">
+  <pre>
+  @article{booth20173d,
+  author = {Booth, James and Antonakos, Epameinondas and Ploumpis, Stylianos and Trigeorgis, George and Panagakis, Yannis and Zafeiriou, Stefanos},
+  title = {3D Face Morphable Models "In-the-Wild"},
+  journal = {arXiv preprint arXiv:1701.05360},
+  url={http://arxiv.org/pdf/1701.05360v1.pdf},
+  year = {2017}
+  }
+  </pre>
+  </div>
+
+* R. A. Güler, G. Trigeorgis, _E. Antonakos_, P. Snape, S. Zafeiriou, and I. Kokkinos.<br/>
+  **DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**<br/>
+  *arXiv preprint arXiv:1612.01202*, 2016.<br/>
+  [<a href="../publications/files/guler2016densereg.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/guler2016densereg_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="http://arxiv.org/pdf/1612.01202v1.pdf"><font color="1A75FF">url</font></a>]
+  [<a href="http://www.menpo.org/menpo3d/"><font color="1A75FF">code</font></a>]
+  [<a href="javascript:toggleBibtex('guler2016densereg')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_guler2016densereg" class="bibtex noshow">
+  <pre>
+  @article{guler2016densereg,
+  author = {G{\"u}ler, R{\i}za Alp and Trigeorgis, George and Antonakos, Epameinondas and Snape, Patrick and Zafeiriou, Stefanos and Kokkinos, Iasonas},
+  title = {DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild},
+  journal = {arXiv preprint arXiv:1612.01202},
+  url={http://arxiv.org/pdf/1612.01202v1.pdf},
+  year = {2016}
+  }
+  </pre>
+  </div>
+
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
   *arXiv preprint arXiv:1603.06015*, 2016.<br/>
