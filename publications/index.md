@@ -77,7 +77,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Top-Tier Conference Presentations
 * G. Trigeorgis, P. Snape, M. Nicolaou, *E. Antonakos*, and S. Zafeiriou.<br/>
   **Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment**<br/>
-  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, pp. 4177-4187, June 2016.<br/>
   [<a href="../publications/files/trigeorgis2016mnemonic.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/trigeorgis2016mnemonic_poster.pdf"><font color="1A75FF">poster</font></a>]
@@ -88,6 +88,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   @inproceedings{trigeorgis2016mnemonic,
   author = {Trigeorgis, George and Snape, Patrick and Nicolaou, Mihalis and Antonakos, Epameinondas and Zafeiriou, Stefanos},
   booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  pages = {4177--4187},
   address = {Las Vegas, NV, USA},
   month = {June},
   title = {Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment},
@@ -99,7 +100,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 * Y. Zhou, *E. Antonakos*, J. Alabort-i-Medina, A. Roussos, and S. Zafeiriou.<br/>
   **Estimating Correspondences of Deformable Objects "In-the-wild"**<br/>
-  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, pp. 5791-5801, June 2016.<br/>
   [<a href="../publications/files/zhou2016estimating.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/zhou2016estimating_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="../publications/files/zhou2016estimating_poster.pdf"><font color="1A75FF">poster</font></a>]
@@ -110,6 +111,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   @inproceedings{zhou2016estimating,
   author = {Zhou, Yuxiang and Antonakos, Epameinondas and {Alabort-i-Medina}, Joan and Roussos, Anastasios and Zafeiriou, Stefanos},
   booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  pages = {5791--5801},
   address = {Las Vegas, NV, USA},
   month = {June},
   title = {Estimating Correspondences of Deformable Objects "In-the-wild"},
@@ -121,7 +123,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 * L. Zafeiriou, *E. Antonakos*, and S. Zafeiriou.<br/>
   **Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences**<br/>
-  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, June 2016.<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, pp. 3382-3390, June 2016.<br/>
   [<a href="../publications/files/zafeiriou2016joint.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/zafeiriou2016joint_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="javascript:toggleBibtex('zafeiriou2016joint')"><font color="1A75FF">bibtex</font></a>]
@@ -130,6 +132,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   @inproceedings{zafeiriou2016joint,
   author = {Zafeiriou, Lazaros and Antonakos, Epameinondas and Zafeiriou, Stefanos},
   booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  pages = {3382--3390},
   address = {Las Vegas, NV, USA},
   month = {June},
   title = {Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences},
@@ -236,7 +239,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Ordinary Conference Presentations
 * *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Adaptive Cascaded Regression**<br/>
-  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, ***Oral***, September 2016.<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, pp. 1649-1653, ***Oral***, September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/antonakos2016adaptive_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="http://www.menpo.org/menpofit/"><font color="1A75FF">code</font></a>]
@@ -244,9 +247,10 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   <div id="bib_antonakos2016adaptive" class="bibtex noshow">
   <pre>
   @inproceedings{antonakos2016adaptive,
-  title = {HOG Active Appearance Models},
+  title = {Adaptive Cascaded Regression},
   author = {Antonakos, Epameinondas and Snape, Patrick and Trigeorgis, George and Zafeiriou, Stefanos},
   booktitle = {Proceedings of IEEE International Conference on Image Processing},
+  pages={1649--1653},
   year = {2016},
   organization = {IEEE}
   }
@@ -255,7 +259,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 * G. Chrysos, *E. Antonakos*, S. Zafeiriou, and P. Snape.<br/>
   **Offline Deformable Face Tracking in Arbitrary Videos**<br/>
-  *Proceedings of IEEE International Conference on Computer Vision Workshops (ICCVW'15), 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop*, Santiago, Chile, December 2015.<br/>
+  *Proceedings of IEEE International Conference on Computer Vision Workshops (ICCVW'15), 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop*, pp. 1-9, Santiago, Chile, December 2015.<br/>
   [<a href="../publications/files/chrysos2015offline.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="javascript:toggleBibtex('chrysos2015offline')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_chrysos2015offline" class="bibtex noshow">
@@ -264,6 +268,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   author = {Chrysos, Grigorios and Antonakos, Epameinondas and Zafeiriou, Stefanos and Snape, Patrick},
   address = {Santiago, Chile},
   booktitle = {Proceedings of IEEE International Conference on Computer Vision Workshops, 300 Videos in the Wild (300-VW): Facial Landmark Tracking in-the-Wild Challenge & Workshop},
+  pages={1--9},
   month = {December},
   title = {Offline Deformable Face Tracking in Arbitrary Videos},
   year = {2015},
@@ -379,6 +384,6 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   **Visual Modeling of Human Face in Real-Time with Applications in Recognition** (in greek)<br/>
   *Diploma Thesis*, July 2011.<br/>
   School of Electrical and Computer Engineering, National Technical University of Athens (NTUA).<br/>
-  Thesis supervisor: P. Maragos.<br/>
+  Thesis supervisor: Prof. Petros Maragos.<br/>
   [<a href="../publications/files/antonakos_DiplomaThesis.pdf"><font color="1A75FF">pdf (in greek)</font></a>]
   [<a href="../publications/files/antonakos_DiplomaThesis_slides.pdf"><font color="1A75FF">slides (in greek)</font></a>]
