@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Epameinondas Antonakos, Nontas Antonakos, Imperial College London, Computer Vision, Deformable Models, Menpo]
+tags: [Epameinondas Antonakos, Nontas Antonakos, Amazon, Amazon Development Center Germany, Imperial College London, Computer Vision, Deformable Models, Menpo]
 image:
   feature: black_wide.jpg
   credit: Agnes Cecile
