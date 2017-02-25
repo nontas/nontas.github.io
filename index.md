@@ -10,13 +10,17 @@ image:
 
 ---
 
-<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am a PhD student at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> working under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/"><i>Dr. Stefanos Zafeiriou</i></a> at the <a href="http://ibug.doc.ic.ac.uk/"><b>Intelligent Behaviour Understanding Group (iBUG)</b></a>.<br/><br/>
-My research interests lie in the fields of Computer Vision, Pattern Recognition, Statistical Machine Learning and Human-Computer Interaction with particular focus on <b>2D Deformable Models</b>.<br/><br/>
+<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am a Computer Vision Research Engineer
+at <a href="https://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin.<br/><br/>
+
+My research interests lie in the fields of Computer Vision and Statistical Machine Learning. I did my Ph.D. at <a href="http://www.imperial.ac.uk/computing">Imperial College London</a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a> with particular focus on <i>2D Deformable Models</i>.<br/><br/>
+
 I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with my friends <a href="https://github.com/jalabort"><i>Joan Alabort-i-Medina</i></a>, <a href="http://www.jamesabooth.com/"><i>James Booth</i></a> and <a href="http://patricksnape.github.io/"><i>Patrick Snape</i></a>. Menpo is a set of open source, cross-platform Python frameworks and associated tooling that provide end-to-end solutions for 2D and 3D deformable modeling.</p>
 
 ---
 
 ## News
+* [*15/02/2017*] I started my new role as Computer Vision Research Scientist at Amazon.
 * [*17/05/2016*] The work "Adaptive Cascaded Regression" (with P. Snape, G. Trigeorgis and S. Zafeiriou) will be presented as oral in ICIP 2016.
 * [*11/04/2016*] The following 3 works will be presented in CVPR 2016:
   * "Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment" (with G. Trigeorgis, P. Snape, M. Nicolaou and S. Zafeiriou)
