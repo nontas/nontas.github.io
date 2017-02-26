@@ -20,7 +20,8 @@ I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with m
 ---
 
 ## News
-* [*15/02/2017*] I started my new role as Computer Vision Research Scientist at Amazon.
+* [*15/02/2017*] I started my new role as Computer Vision Research Scientist at Amazon Berlin.
+* [*10/02/2017*] The work "A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”" (with G. Chrysos, P. Snape, A. Asthana and S. Zafeiriou) will be published in IJCV.
 * [*17/05/2016*] The work "Adaptive Cascaded Regression" (with P. Snape, G. Trigeorgis and S. Zafeiriou) will be presented as oral in ICIP 2016.
 * [*11/04/2016*] The following 3 works will be presented in CVPR 2016:
   * "Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment" (with G. Trigeorgis, P. Snape, M. Nicolaou and S. Zafeiriou)
