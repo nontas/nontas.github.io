@@ -9,6 +9,26 @@ comments: false
 You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ), [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) or [iBUG](http://ibug.doc.ic.ac.uk/people/eantonakos) profile.
 
 ### Refereed Journal Articles
+* G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
+  **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
+  *International Journal of Computer Vision (IJCV)*, 2017.<br/>
+  [<a href="../publications/files/chrysos2017comprehensive.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/chrysos2017comprehensive_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="https://link.springer.com/article/10.1007/s11263-017-0999-5"><font color="1A75FF">url</font></a>]
+  [<a href="javascript:toggleBibtex('chrysos2017comprehensive')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_chrysos2017comprehensive" class="bibtex noshow">
+  <pre>
+  @article{chrysos2017comprehensive,
+  author = {Chrysos, Grigorios and Antonakos, Epameinondas and Snape, Patrick and Asthana, Akshay and Zafeiriou, Stefanos},
+  title = {A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"},
+  journal = {International Journal of Computer Vision (IJCV)},
+  url={https://link.springer.com/article/10.1007/s11263-017-0999-5},
+  year = {2017},
+  publisher = {Springer}
+  }
+  </pre>
+  </div>
+
 * C. Sagonas, _E. Antonakos_, G. Tzimiropoulos, S. Zafeiriou, and M. Pantic<br/>
   **300 Faces In-The-Wild Challenge: Database and Results**<br/>
   *Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisation "In-The-Wild"*, 47: pp. 3-18, 2016.<br/>
@@ -373,25 +393,6 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   title = {DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild},
   journal = {arXiv preprint arXiv:1612.01202},
   url={http://arxiv.org/pdf/1612.01202v1.pdf},
-  year = {2016}
-  }
-  </pre>
-  </div>
-
-* G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
-  **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
-  *arXiv preprint arXiv:1603.06015*, 2016.<br/>
-  [<a href="../publications/files/chrysos2016comprehensive.pdf"><font color="1A75FF">pdf</font></a>]
-  [<a href="../publications/files/chrysos2016comprehensive_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="http://arxiv.org/pdf/1603.06015v1.pdf"><font color="1A75FF">url</font></a>]
-  [<a href="javascript:toggleBibtex('chrysos2016comprehensive')"><font color="1A75FF">bibtex</font></a>]
-  <div id="bib_chrysos2016comprehensive" class="bibtex noshow">
-  <pre>
-  @article{chrysos2016comprehensive,
-  author = {Chrysos, Grigorios and Antonakos, Epameinondas and Snape, Patrick and Asthana, Akshay and Zafeiriou, Stefanos},
-  title = {A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"},
-  journal = {arXiv preprint arXiv:1603.06015},
-  url={http://arxiv.org/pdf/1603.06015v1.pdf},
   year = {2016}
   }
   </pre>
