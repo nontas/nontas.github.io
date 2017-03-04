@@ -18,7 +18,7 @@ In the past, I had also implemented a [**GUI Matlab toolbox**](/software/aam_mat
 
 ### Software maintained by others
 [**Mnemonic Descent Method (MDM)**](http://github.com/trigeorgis/mdm), published in CVPR'16, is developed and maintained by [*George Trigeorgis*](http://trigeorgis.com/).<br/>
-[**DenseReg**](http://alpguler.com/DenseReg.html), published in arxiv, is developed and maintained by [*Rıza Alp Güler*](http://alpguler.com/).
+[**DenseReg**](http://alpguler.com/DenseReg.html), published in CVPR'17, is developed and maintained by [*Rıza Alp Güler*](http://alpguler.com/).
 
 <center>
   <a href="http://github.com/trigeorgis/mdm"><img src="mdm_icon.png" alt="MDM" width="32%" style="padding-right: 20%"></a>

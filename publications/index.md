@@ -95,6 +95,50 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Top-Tier Conference Presentations
+* J. Booth, _E. Antonakos_, S. Ploumpis, G. Trigeorgis, Y. Panagakis, and S. Zafeiriou.<br/>
+  **3D Face Morphable Models "In-the-Wild"**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'17)*, Honolulu, HI, USA, ***Spotlight***, July 2017.<br/>
+  [<a href="../publications/files/booth20173d.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/booth20173d_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="http://arxiv.org/pdf/1701.05360v1.pdf"><font color="1A75FF">url</font></a>]
+  [<a href="http://www.menpo.org/menpo3d/"><font color="1A75FF">code</font></a>]
+  [<a href="javascript:toggleBibtex('booth20173d')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_booth20173d" class="bibtex noshow">
+  <pre>
+  @inproceedings{booth20173d,
+  author = {Booth, James and Antonakos, Epameinondas and Ploumpis, Stylianos and Trigeorgis, George and Panagakis, Yannis and Zafeiriou, Stefanos},
+  title = {3D Face Morphable Models "In-the-Wild"},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  address = {Honolulu, HI, USA},
+  month = {July},
+  year = {2017},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
+* R. A. Güler, G. Trigeorgis, _E. Antonakos_, P. Snape, S. Zafeiriou, and I. Kokkinos.<br/>
+  **DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'17)*, Honolulu, HI, USA, July 2017.<br/>
+  [<a href="../publications/files/guler2017densereg.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/guler2017densereg_supp.pdf"><font color="1A75FF">supp</font></a>]
+  [<a href="http://arxiv.org/pdf/1612.01202v1.pdf"><font color="1A75FF">url</font></a>]
+  [<a href="http://alpguler.com/DenseReg.html"><font color="1A75FF">code</font></a>]
+  [<a href="javascript:toggleBibtex('guler2017densereg')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_guler2017densereg" class="bibtex noshow">
+  <pre>
+  @inproceedings{guler2017densereg,
+  author = {G{\"u}ler, R{\i}za Alp and Trigeorgis, George and Antonakos, Epameinondas and Snape, Patrick and Zafeiriou, Stefanos and Kokkinos, Iasonas},
+  title = {DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition},
+  address = {Honolulu, HI, USA},
+  month = {July},
+  year = {2017},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
 * G. Trigeorgis, P. Snape, M. Nicolaou, *E. Antonakos*, and S. Zafeiriou.<br/>
   **Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment**<br/>
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'16)*, Las Vegas, NV, USA, pp. 4177-4187, June 2016.<br/>
@@ -259,7 +303,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Ordinary Conference Presentations
 * *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Adaptive Cascaded Regression**<br/>
-  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, pp. 1649-1653, ***Oral***, September 2016.<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, pp. 1649-1653, ***Spotlight***,  September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/antonakos2016adaptive_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="http://www.menpo.org/menpofit/"><font color="1A75FF">code</font></a>]
@@ -358,46 +402,6 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 
 
 ### Other Publications
-* J. Booth, _E. Antonakos_, S. Ploumpis, G. Trigeorgis, Y. Panagakis, and S. Zafeiriou.<br/>
-  **3D Face Morphable Models "In-the-Wild"**<br/>
-  *arXiv preprint arXiv:1701.05360*, 2017.<br/>
-  [<a href="../publications/files/booth20173d.pdf"><font color="1A75FF">pdf</font></a>]
-  [<a href="../publications/files/booth20173d_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="http://arxiv.org/pdf/1701.05360v1.pdf"><font color="1A75FF">url</font></a>]
-  [<a href="http://www.menpo.org/menpo3d/"><font color="1A75FF">code</font></a>]
-  [<a href="javascript:toggleBibtex('booth20173d')"><font color="1A75FF">bibtex</font></a>]
-  <div id="bib_booth20173d" class="bibtex noshow">
-  <pre>
-  @article{booth20173d,
-  author = {Booth, James and Antonakos, Epameinondas and Ploumpis, Stylianos and Trigeorgis, George and Panagakis, Yannis and Zafeiriou, Stefanos},
-  title = {3D Face Morphable Models "In-the-Wild"},
-  journal = {arXiv preprint arXiv:1701.05360},
-  url={http://arxiv.org/pdf/1701.05360v1.pdf},
-  year = {2017}
-  }
-  </pre>
-  </div>
-
-* R. A. Güler, G. Trigeorgis, _E. Antonakos_, P. Snape, S. Zafeiriou, and I. Kokkinos.<br/>
-  **DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild**<br/>
-  *arXiv preprint arXiv:1612.01202*, 2016.<br/>
-  [<a href="../publications/files/guler2016densereg.pdf"><font color="1A75FF">pdf</font></a>]
-  [<a href="../publications/files/guler2016densereg_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="http://arxiv.org/pdf/1612.01202v1.pdf"><font color="1A75FF">url</font></a>]
-  [<a href="http://alpguler.com/DenseReg.html"><font color="1A75FF">code</font></a>]
-  [<a href="javascript:toggleBibtex('guler2016densereg')"><font color="1A75FF">bibtex</font></a>]
-  <div id="bib_guler2016densereg" class="bibtex noshow">
-  <pre>
-  @article{guler2016densereg,
-  author = {G{\"u}ler, R{\i}za Alp and Trigeorgis, George and Antonakos, Epameinondas and Snape, Patrick and Zafeiriou, Stefanos and Kokkinos, Iasonas},
-  title = {DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild},
-  journal = {arXiv preprint arXiv:1612.01202},
-  url={http://arxiv.org/pdf/1612.01202v1.pdf},
-  year = {2016}
-  }
-  </pre>
-  </div>
-
 * J. Alabort-i-Medina<sup>\*</sup>, *E. Antonakos*<sup>\*</sup>, J. Booth<sup>\*</sup>, P. Snape<sup>\*</sup>, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **The Menpo Project**<br/>
   *ACM Special Interest Group on Multimedia (SIGMM) Records*, 8(2), June 2016.<br/>
