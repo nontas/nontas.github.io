@@ -100,7 +100,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'17)*, Honolulu, HI, USA, ***Spotlight***, July 2017.<br/>
   [<a href="../publications/files/booth20173d.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/booth20173d_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="http://arxiv.org/pdf/1701.05360v1.pdf"><font color="1A75FF">url</font></a>]
+  <!-- [<a href="http://arxiv.org/pdf/1701.05360v1.pdf"><font color="1A75FF">url</font></a>] -->
   [<a href="http://www.menpo.org/menpo3d/"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('booth20173d')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_booth20173d" class="bibtex noshow">
@@ -122,7 +122,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   *Proceedings of IEEE International Conference on Computer Vision & Pattern Recognition (CVPR'17)*, Honolulu, HI, USA, July 2017.<br/>
   [<a href="../publications/files/guler2017densereg.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/guler2017densereg_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="http://arxiv.org/pdf/1612.01202v1.pdf"><font color="1A75FF">url</font></a>]
+  <!-- [<a href="http://arxiv.org/pdf/1612.01202v1.pdf"><font color="1A75FF">url</font></a>] -->
   [<a href="http://alpguler.com/DenseReg.html"><font color="1A75FF">code</font></a>]
   [<a href="javascript:toggleBibtex('guler2017densereg')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_guler2017densereg" class="bibtex noshow">
