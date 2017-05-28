@@ -6,7 +6,7 @@ modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
-You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ), [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) or [iBUG](http://ibug.doc.ic.ac.uk/people/eantonakos) profile.
+You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ) or [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) profile.
 
 ### Refereed Journal Articles
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
