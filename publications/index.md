@@ -11,20 +11,24 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
 ### Refereed Journal Articles
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
-  *International Journal of Computer Vision (IJCV)*, 2017.<br/>
+  *International Journal of Computer Vision (IJCV)*, pp. 1-35, 2017.<br/>
   [<a href="../publications/files/chrysos2017comprehensive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/chrysos2017comprehensive_supp.pdf"><font color="1A75FF">supp</font></a>]
-  [<a href="https://link.springer.com/article/10.1007/s11263-017-0999-5"><font color="1A75FF">url</font></a>]
+  [<a href="http://dx.doi.org/10.1007/s11263-017-0999-5"><font color="1A75FF">url</font></a>]
   [<a href="javascript:toggleBibtex('chrysos2017comprehensive')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_chrysos2017comprehensive" class="bibtex noshow">
   <pre>
   @article{chrysos2017comprehensive,
   author = {Chrysos, Grigorios and Antonakos, Epameinondas and Snape, Patrick and Asthana, Akshay and Zafeiriou, Stefanos},
-  title = {A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"},
+  title = {A Comprehensive Performance Evaluation of Deformable Face Tracking ``In-the-Wild''},
   journal = {International Journal of Computer Vision (IJCV)},
   url={https://link.springer.com/article/10.1007/s11263-017-0999-5},
   year = {2017},
-  publisher = {Springer}
+  month = {February},
+  pages = {1--35},
+  publisher = {Springer},
+  doi = {10.1007/s11263-017-0999-5},
+  url = {http://dx.doi.org/10.1007/s11263-017-0999-5}
   }
   </pre>
   </div>
