@@ -428,7 +428,14 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   </div>
 
 
-### Thesis
+### Theses
+* *E. Antonakos*.<br/>
+  **Robust Statistical Deformable Models**<br/>
+  *Ph.D. Thesis*, March 2017.<br/>
+  Department of Computing, Imperial College London.<br/>
+  Ph.D. supervisor: Dr. Stefanos Zafeiriou.<br/>
+  [<a href="../publications/files/antonakos_PhDThesis.pdf"><font color="1A75FF">pdf</font></a>]
+
 * *E. Antonakos*.<br/>
   **Visual Modeling of Human Face in Real-Time with Applications in Recognition** (in greek)<br/>
   *Diploma Thesis*, July 2011.<br/>
