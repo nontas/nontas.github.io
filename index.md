@@ -10,7 +10,7 @@ image:
 
 ---
 
-<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am a <i>Computer Vision Research Scientist</i>
+<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am a <i>Computer Vision Applied Scientist</i>
 at <a href="https://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin.<br/><br/>
 
 My research interests lie in the fields of Computer Vision and Statistical Machine Learning. I did my Ph.D. at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a> focusing on <i>Deformable Models</i>.<br/><br/>
@@ -23,7 +23,7 @@ I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with m
 * [*04/03/2017*] The following 2 works will be presented in CVPR 2017:
   * "3D Face Morphable Models In-the-Wild" (with J. Booth, S. Ploumpis, G. Trigeorgis, Y. Panagakis and S. Zafeiriou) as Spotlight
   * "DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild" (with R. A. Güler, G. Trigeorgis, P. Snape, S. Zafeiriou, and I. Kokkinos)
-* [*15/02/2017*] I started my new role as Computer Vision Research Scientist at Amazon Berlin.
+* [*15/02/2017*] I started my new role as Computer Vision Scientist at Amazon Berlin.
 * [*10/02/2017*] The work "A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”" (with G. Chrysos, P. Snape, A. Asthana and S. Zafeiriou) will be published in IJCV.
 * [*17/05/2016*] The work "Adaptive Cascaded Regression" (with P. Snape, G. Trigeorgis and S. Zafeiriou) will be presented as oral in ICIP 2016.
 * [*11/04/2016*] The following 3 works will be presented in CVPR 2016:
