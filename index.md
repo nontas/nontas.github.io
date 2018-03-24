@@ -10,7 +10,7 @@ image:
 
 ---
 
-<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am a <i>Computer Vision Applied Scientist</i>
+<p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am an <i>Applied Scientist</i>
 at <a href="https://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin.<br/><br/>
 
 My research interests lie in the fields of Computer Vision and Statistical Machine Learning. I did my Ph.D. at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a> focusing on <i>Deformable Models</i>.<br/><br/>
