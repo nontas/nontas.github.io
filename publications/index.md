@@ -9,6 +9,30 @@ comments: false
 You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ) or [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) profile.
 
 ### Refereed Journal Articles
+* G. Chrysos, _E. Antonakos_, and S. Zafeiriou.<br/>
+  **IPST: Incremental Pictorial Structures for Model-Free Tracking of Deformable Objects**<br/>
+  *IEEE Transactions on Image Processing (T-IP)*, 27(7): pp. 3529-3540, July 2018.<br/>
+  [<a href="../publications/files/chrysos2018ipst.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="https://ieeexplore.ieee.org/document/8316962/"><font color="1A75FF">url</font></a>]
+  [<a href="javascript:toggleBibtex('chrysos2018ipst')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_chrysos2018ipst" class="bibtex noshow">
+  <pre>
+  @article{chrysos2018ipst,
+  author = {Chrysos, Grigorios and Antonakos, Epameinondas and Zafeiriou, Stefanos},
+  title = {IPST: Incremental Pictorial Structures for Model-Free Tracking of Deformable Objects},
+  journal = {IEEE Transactions on Image Processing (T-IP)},
+  year = {2018},
+  month = {July},
+  volume={27},
+  number={7},
+  pages = {3529-3540},
+  publisher = {IEEE},
+  doi = {10.1109/TIP.2018.2816121},
+  ISSN = {1057-7149},
+  }
+  </pre>
+  </div>
+
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
   *International Journal of Computer Vision (IJCV)*, pp. 1-35, 2017.<br/>
@@ -68,7 +92,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   volume = {24},
   number = {9},
   pages = {2617--2632},
-  month={September},
+  month = {September},
   year = {2015},
   publisher = {IEEE}
   }
