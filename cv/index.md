@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 
+title:
 tags: [Epameinondas Antonakos, Nontas Antonakos, Amazon, Amazon Development Center Germany, Imperial College London, Computer Vision, Deformable Models, Menpo]
 modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
-<p align="justify">You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> <i>[Last updated: December 2017]</i>.<br/><br/>
+<p align="justify">You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> <i>[Last updated: April 2018]</i>.<br/><br/>
 
 Since February 2017, I am a <i>Computer Vision Applied Scientist</i> at <a href="http://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin, Germany.<br/><br/>
 
