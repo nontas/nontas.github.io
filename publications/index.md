@@ -33,6 +33,7 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   </pre>
   </div>
 
+
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>
   *International Journal of Computer Vision (IJCV)*, pp. 1-35, 2017.<br/>
