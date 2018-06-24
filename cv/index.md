@@ -8,7 +8,7 @@ comments: false
 
 <p align="justify">You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> <i>[Last updated: April 2018]</i>.<br/><br/>
 
-Since February 2017, I am a <i>Computer Vision Applied Scientist</i> at <a href="http://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin, Germany.<br/><br/>
+Since February 2017, I am an <i>Applied Scientist</i> at <a href="https://www.aboutamazon.com/"><b>Amazon</b></a> in Berlin, Germany, as part of the Computer Vision Team.<br/><br/>
 
 During 2012-2017, I did my Ph.D. and worked as a Research Assistant at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> as part of the <a href="http://ibug.doc.ic.ac.uk/">Intelligent Behaviour Understanding Group (iBUG)</a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a>. I received my Diploma degree in Electrical and Computer Engineering from the <a href="http://www.ntua.gr/">National Technical University of Athens</a> in 2011. During 2011-2012, I was a Research Assistant in the <a href="http://cvsp.cs.ntua.gr/">Computer Vision, Speech Communication & Signal Processing (CVSP) Group</a> under the supervision of <a href="http://cvsp.cs.ntua.gr/maragos/index.shtm">Prof. Petros Maragos</a>.<br/><br/>
 

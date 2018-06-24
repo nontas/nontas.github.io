@@ -6,9 +6,34 @@ modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
-You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViIpE70AAAAJ) or [Research Gate](https://www.researchgate.net/profile/Epameinondas_Antonakos) profile.
+You can view my [Google Scholar](https://scholar.google.com/citations?user=ViIpE70AAAAJ) profile.
 
 ### Refereed Journal Articles
+* J. Booth, A. Roussos, E. Ververas, _E. Antonakos_, S. Ploumpis, Y. Panagakis, and S. Zafeiriou.<br/>
+  **3D Reconstruction of "In-the-Wild" Faces in Images and Videos**<br/>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*, 2018.<br/>
+  [<a href="https://ieeexplore.ieee.org/document/8359431/"><font color="1A75FF">url</font></a>]
+  [<a href="https://github.com/menpo/itwmm"><font color="1A75FF">code</font></a>]
+  [<a href="https://ibug.doc.ic.ac.uk/resources/itwmm/"><font color="1A75FF">data</font></a>]
+  [<a href="javascript:toggleBibtex('booth20183d')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_booth20183d" class="bibtex noshow">
+  <pre>
+  @article{booth20183d,
+  author = {Booth, James and Roussos, Anastasios and Ververas, Evangelos and Antonakos, Epameinondas and Ploumpis, Stylianos and Panagakis, Yannis and Zafeiriou, Stefanos},
+  title = {3D Reconstruction of "In-the-Wild" Faces in Images and Videos},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
+  year = {2018},
+  month = {},
+  volume = {},
+  number = {},
+  pages = {1-1},
+  publisher = {IEEE},
+  doi = {10.1109/TPAMI.2018.2832138},
+  ISSN = {0162-8828},
+  }
+  </pre>
+  </div>
+
 * G. Chrysos, _E. Antonakos_, and S. Zafeiriou.<br/>
   **IPST: Incremental Pictorial Structures for Model-Free Tracking of Deformable Objects**<br/>
   *IEEE Transactions on Image Processing (T-IP)*, 27(7): pp. 3529-3540, July 2018.<br/>
@@ -23,8 +48,8 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   journal = {IEEE Transactions on Image Processing (T-IP)},
   year = {2018},
   month = {July},
-  volume={27},
-  number={7},
+  volume = {27},
+  number = {7},
   pages = {3529-3540},
   publisher = {IEEE},
   doi = {10.1109/TIP.2018.2816121},
@@ -32,7 +57,6 @@ You can view my [Google Scholar](https://scholar.google.co.uk/citations?user=ViI
   }
   </pre>
   </div>
-
 
 * G. Chrysos, _E. Antonakos_<sup>\*</sup>, P. Snape<sup>\*</sup>, A. Asthana, and S. Zafeiriou. *(\* Joint second authorship)*<br/>
   **A Comprehensive Performance Evaluation of Deformable Face Tracking "In-the-Wild"**<br/>

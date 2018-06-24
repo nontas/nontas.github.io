@@ -11,23 +11,10 @@ image:
 ---
 
 <p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>. I am an <i>Applied Scientist</i>
-at <a href="https://www.amazon.jobs/location/berlin-germany"><b>Amazon</b></a> in Berlin.<br/><br/>
+at <a href="https://www.aboutamazon.com/"><b>Amazon</b></a> in Berlin, Germany.<br/><br/>
 
 My research interests lie in the fields of Computer Vision and Statistical Machine Learning. I did my Ph.D. at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a> focusing on <i>Deformable Models</i>.<br/><br/>
 
 I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with my friends <a href="https://github.com/jalabort"><i>Joan Alabort-i-Medina</i></a>, <a href="http://www.jamesabooth.com/"><i>James Booth</i></a> and <a href="http://patricksnape.github.io/"><i>Patrick Snape</i></a>. Menpo is a set of open source, cross-platform Python frameworks and associated tooling that provide end-to-end solutions for 2D and 3D deformable modeling.</p>
 
 ---
-
-## News
-* [*04/03/2017*] The following 2 works will be presented in CVPR 2017:
-  * "3D Face Morphable Models In-the-Wild" (with J. Booth, S. Ploumpis, G. Trigeorgis, Y. Panagakis and S. Zafeiriou) as Spotlight
-  * "DenseReg: Fully Convolutional Dense Shape Regression In-the-Wild" (with R. A. Güler, G. Trigeorgis, P. Snape, S. Zafeiriou, and I. Kokkinos)
-* [*15/02/2017*] I started my new role as Computer Vision Scientist at Amazon Berlin.
-* [*10/02/2017*] The work "A Comprehensive Performance Evaluation of Deformable Face Tracking “In-the-Wild”" (with G. Chrysos, P. Snape, A. Asthana and S. Zafeiriou) will be published in IJCV.
-* [*17/05/2016*] The work "Adaptive Cascaded Regression" (with P. Snape, G. Trigeorgis and S. Zafeiriou) will be presented as oral in ICIP 2016.
-* [*11/04/2016*] The following 3 works will be presented in CVPR 2016:
-  * "Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment" (with G. Trigeorgis, P. Snape, M. Nicolaou and S. Zafeiriou)
-  * "Estimating Correspondences of Deformable Objects In-the-wild" (with Y. Zhou, J. Alabort-i-Medina, A. Roussos and S. Zafeiriou)
-  * "Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences" (with L. Zafeiriou and S. Zafeiriou)
-* [*13/03/2016*] Site is up!
