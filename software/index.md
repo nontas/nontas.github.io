@@ -24,5 +24,5 @@ In the past, I had also implemented a [**GUI Matlab toolbox**](/software/aam_mat
 <center>
   <a href="http://github.com/trigeorgis/mdm"><img src="mdm_icon.png" alt="MDM" width="32%" style="padding-right: 20%"></a>
   <a href="http://alpguler.com/DenseReg.html"><img src="densereg_icon.png" alt="DenseReg" width="20%"></a> <br/><br/><br/>
-  <a href="http://github.com/menpo/itwmm"><img src="itwmm_icon.png" alt="3DMM" width="40%"></a>
+  <a href="http://github.com/menpo/itwmm"><img src="itwmm_icon.png" alt="3DMM" width="37%"></a>
 </center>
