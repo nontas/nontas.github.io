@@ -12,7 +12,7 @@ image:
 
 <p align="justify">My name is <a href="https://en.wikipedia.org/wiki/Epaminondas">Epameinondas</a> or simply <i>Nontas</i>.<br/><br/>
 
-Since July 2018, I am an <i>Applied Scientist</i> and <i>Manager</i> of the <i>Robotics team</i> at <a href="https://www.aboutamazon.com/"><b>Amazon</b></a> in Berlin, Germany. Between February 2017 and June 2018, I was an Applied Scientist at <a href="https://www.aboutamazon.com/">Amazon</a> in Berlin, Germany, as part of the Computer Vision team.<br/><br/>
+I am with <a href="https://www.aboutamazon.com/"><b>Amazon</b></a> in Berlin, Germany, since February 2017. Since July 2018, I am the <i>Manager</i> of the <i>Robotics team</i> in Berlin that works for <a href="https://www.amazonrobotics.com/"><b>AmazonRobotics</b></a>. Between February 2017 and June 2018, I was an <i>Applied Scientist</i> for the Computer Vision team, part of the CoreAI organization.<br/><br/>
 
 During 2012-2017, I did my Ph.D. at <a href="http://www.imperial.ac.uk/computing"><b>Imperial College London</b></a> as part of the <a href="http://ibug.doc.ic.ac.uk/">iBUG Group</a> under the supervision of <a href="https://wp.doc.ic.ac.uk/szafeiri/">Dr. Stefanos Zafeiriou</a> focusing on <i>2D/3D Deformable Models</i>. I received my Diploma degree in Electrical and Computer Engineering from the <a href="http://www.ntua.gr/">National Technical University of Athens</a> in 2011. During 2011-2012, I was a Research Assistant in the <a href="http://cvsp.cs.ntua.gr/">CVSP Group</a> under the supervision of <a href="http://cvsp.cs.ntua.gr/maragos/index.shtm">Prof. Petros Maragos</a>.<br/><br/>
 
