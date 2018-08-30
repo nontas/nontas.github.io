@@ -6,7 +6,7 @@ modified: 2015-03-17T15:20:07.573882-04:00
 comments: false
 ---
 
-<p align="justify">You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> <i>[Last updated: April 2018]</i>.<br/><br/>
+<p align="justify">You can download my <a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>full CV</b></font></a> <i>[Last updated: August 2018]</i>.<br/><br/>
 
 Since February 2017, I am an <i>Applied Scientist</i> at <a href="https://www.aboutamazon.com/"><b>Amazon</b></a> in Berlin, Germany, as part of the Computer Vision Team.<br/><br/>
 
