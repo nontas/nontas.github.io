@@ -11,7 +11,7 @@ You can view my [Google Scholar](https://scholar.google.com/citations?user=ViIpE
 ### Refereed Journal Articles
 * J. Booth, A. Roussos, E. Ververas, _E. Antonakos_, S. Ploumpis, Y. Panagakis, and S. Zafeiriou.<br/>
   **3D Reconstruction of "In-the-Wild" Faces in Images and Videos**<br/>
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*, 2018.<br/>
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*, 40(11): pp. 2638-2652, November 2018.<br/>
   [<a href="https://ieeexplore.ieee.org/document/8359431/"><font color="1A75FF">url</font></a>]
   [<a href="https://github.com/menpo/itwmm"><font color="1A75FF">code</font></a>]
   [<a href="https://ibug.doc.ic.ac.uk/resources/itwmm/"><font color="1A75FF">data</font></a>]
