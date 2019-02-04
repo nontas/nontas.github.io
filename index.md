@@ -18,4 +18,4 @@ Between February 2017 and June 2018, I was an Applied Scientist in the Computer 
 
 I co-founded the <a href="http://www.menpo.org/"><b>Menpo Project</b></a> with <a href="https://github.com/jalabort"><i>Joan Alabort-i-Medina</i></a>, <a href="http://www.jamesabooth.com/"><i>James Booth</i></a> and <a href="http://patricksnape.github.io/"><i>Patrick Snape</i></a>. Menpo is a set of open source, cross-platform Python frameworks and associated tooling that provide end-to-end solutions for 2D and 3D deformable modeling.<br/><br/>
 
-<a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>Curriculum Vitae</b></font></a> <i>[Last updated: October 2018]</i>.</p>
+<a href="../cv/antonakosCV.pdf"><font color="1A75FF"><b>Curriculum Vitae</b></font></a> <i>[Last updated: January 2019]</i>.</p>
