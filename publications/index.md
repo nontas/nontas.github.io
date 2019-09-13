@@ -355,7 +355,7 @@ You can view my [Google Scholar](https://scholar.google.com/citations?user=ViIpE
 
 
 ### Ordinary Conference Presentations
-* D. Morrison, A. Milan, G. Trigeorgis, and *E. Antonakos*.<br/>
+* D. Morrison, A. Milan, and *E. Antonakos*.<br/>
   **Uncertainty-aware Instance Segmentation using Dropout Sampling**<br/>
   *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW'19), Robotic Vision Probabilistic Object Detection*, Long Beach, CA, USA, June 2019.<br/>
   [<a href="../publications/files/morrison2019uncertainty.pdf"><font color="1A75FF">pdf</font></a>]
