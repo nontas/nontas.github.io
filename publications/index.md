@@ -355,9 +355,27 @@ You can view my [Google Scholar](https://scholar.google.com/citations?user=ViIpE
 
 
 ### Ordinary Conference Presentations
+* D. Morrison, A. Milan, G. Trigeorgis, and *E. Antonakos*.<br/>
+  **Uncertainty-aware Instance Segmentation using Dropout Sampling**<br/>
+  *Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW'19), Robotic Vision Probabilistic Object Detection*, Long Beach, CA, USA, June 2019.<br/>
+  [<a href="../publications/files/morrison2019uncertainty.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2019"><font color="1A75FF">workshop</font></a>]
+  [<a href="javascript:toggleBibtex('morrison2019uncertainty')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_morrison2019uncertainty" class="bibtex noshow">
+  <pre>
+  @inproceedings{morrison2019uncertainty,
+  title = {Uncertainty-aware Instance Segmentation using Dropout Sampling},
+  author = {Morrison, Doug and Milan, Anton and Antonakos, Epameinondas},
+  booktitle = {Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition Workshops, Robotic Vision Probabilistic Object Detection},
+  year = {2019},
+  organization = {IEEE}
+  }
+  </pre>
+  </div>
+
 * *E. Antonakos*<sup>\*</sup>, P. Snape<sup>\*</sup>, G. Trigeorgis, and S. Zafeiriou. *(\* Joint first authorship)*<br/>
   **Adaptive Cascaded Regression**<br/>
-  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, pp. 1649-1653, ***Spotlight***,  September 2016.<br/>
+  *Proceedings of IEEE International Conference on Image Processing (ICIP'16)*, Phoenix, AZ, USA, pp. 1649-1653, ***Spotlight***, September 2016.<br/>
   [<a href="../publications/files/antonakos2016adaptive.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/antonakos2016adaptive_supp.pdf"><font color="1A75FF">supp</font></a>]
   [<a href="http://www.menpo.org/menpofit/"><font color="1A75FF">code</font></a>]
